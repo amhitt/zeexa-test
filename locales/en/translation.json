@@ -1,0 +1,51 @@
+{
+    "hero-section": {
+        "menu": {
+            "portfolio": "Portfolio",
+            "agency": "Agency",
+            "services": "Services",
+            "contacts": "Contacts",
+            "language": "En"
+        },
+        "heading": {
+            "1": "Zeexa Team ®",
+            "2": "Digital Design",
+            "3": "Boutique with Focus",
+            "4": "on Aesthetics"
+        },
+        "extra": "With many years of experience in digital product development, we understand how to create user-\nfriendly and memorable interfaces for the leading world companies. Properly and harmoniously, we integrate modern technologies into the classical graphic design aesthetics."
+    },
+    "about-agency": {
+        "small-text": "Our team has created more than 50 projects. Thus, we have scrutinized the patterns of user behavior. This has enabled us to achieve maximum efficiency in solving our client’s problems.",
+        "big-text": "Every project made by Zeexa team is created at the intersection between design and technology, making the future — today",
+        "button": "about agency"
+    },
+    "showreal": {
+        "button1": "watch this video",
+        "button2": "check works"
+    },
+    "additional-info": {
+        "small-text": "We keep looking towards the future, at the same time recognizing that behavior change takes place only with a clear awareness of the current state. Before we get down to the design, our team conducts a thorough audit of how your audience feels. Then we implement an emotional solution, attracting Customers to make a click. In this way, you stay unique today and will be of current interest no matter what awaits you in the future.",
+        "big-text": "We believe that the power of design, creativity, and emotion helps large and middle businesses to involve people in their products and services, multiplying their consumer characteristics",
+        "button": "about agency"
+    },
+    "footer": {
+        "cta": "Let’s create something valuable together.",
+        "hello": "Say hello",
+        "location1": {
+            "heading": "Main Office",
+            "city": "Ivanovo, 153000",
+            "country": "Russian Federation"
+        },
+        "location2": {
+            "heading": "Based in the UAE",
+            "city": "Dubai, 333388",
+            "country": "United Arab Emirates"
+        },
+        "language": "En"
+    },
+    "projects": {
+        "project-examples": {},
+        "button": "more projects"
+    }
+}
